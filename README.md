@@ -98,7 +98,7 @@ User authentication
 
 Task categories and priorities
 
-Responsive mobile-first redesign
+Responsive mobile-first redesi
 
 ---
 
