@@ -100,6 +100,5 @@ Task categories and priorities
 
 Responsive mobile-first redesign
 
----
 
 
