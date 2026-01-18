@@ -88,6 +88,7 @@ The project currently uses browser Local Storage for data persistence.
 ---
 
 
+
 🌱 Future Improvements
 
 Convert to React for better scalability
